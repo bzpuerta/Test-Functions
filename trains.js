@@ -15,17 +15,6 @@ while (gotName == false) {
 
 
 	
-	
-		if (typeof userName == string) {
-			confirm ("is " + userName + " your name?");
-			if (confirm == true) {
-				gotName = true;
-			}
-		
-	}
-
-
-	
 // keep track of train passengers (adding a passenger to out list)
 
 function addPassenger (name, list){
